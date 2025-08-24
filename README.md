@@ -37,7 +37,7 @@ This project implements a semantic search engine for movie plots using SentenceT
 
 5. **Run the notebook**:
    ```bash
-   jupyter notebook movie_search_solution.ipynb
+   jupyter notebook movie_search_results.ipynb
    ```
 
 ## Testing
